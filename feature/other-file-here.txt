@@ -1,1 +1,2 @@
 I'm going to do a 3 way merge
+Modifying it in local in feature 
